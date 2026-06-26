@@ -1,1 +1,1 @@
-# Unstoppable-Force tateckling the social issue of GBVF by intergrating an e-panic app
+# Unstoppable-Force tackling the social issue of GBVF by using a sound detection device.
